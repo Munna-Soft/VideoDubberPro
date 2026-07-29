@@ -11,7 +11,7 @@
 ---
 
 ![Dark Mode ](gui-dark.png) </br>
-![Light Mode ](light-dark.png)
+![Light Mode ](gui-light.png)
 
 <img src="https://raw.githubusercontent.com/Munna-Soft/Portfolio/master/assets/RGB_Light.gif" width="100%" height="75">
 
