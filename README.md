@@ -1,5 +1,3 @@
-# Video Dubber Pro – AI Dubbing Videos for Windows PC
-
 <!-- Modern Stats Cards -->
 <div align="center">
     <h1 align="center">
@@ -9,6 +7,8 @@
 </div>
 
 ---
+
+# Video Dubber Pro – AI Dubbing Videos for Windows PC
 
 ![Dark Mode ](gui-dark.png) </br>
 ![Light Mode ](gui-light.png)
